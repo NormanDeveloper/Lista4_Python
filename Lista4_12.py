@@ -19,4 +19,4 @@ for i in range(len(alunos13)):
         baixo_media.append(alunos13[contador])
     contador += 1
 
-print("Alunos com mais de 13 anos possuem altura inferior à média: "len(baixo_media))
+print("Alunos com mais de 13 anos possuem altura inferior à média: ", len(baixo_media))
